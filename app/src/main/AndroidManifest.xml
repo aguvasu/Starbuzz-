@@ -17,7 +17,8 @@
         </activity>
         <activity android:name=".DrinkCategoryActivity" />
         <activity android:name=".FoodCategoryActivity" />
-        <activity android:name=".DrinkActivity"></activity>
+        <activity android:name=".DrinkActivity" />
+        <activity android:name=".FoodActivity"></activity>
     </application>
 
 </manifest>
